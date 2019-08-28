@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Sincere.Core.Common\Sincere.Core.Common.csproj" />
     <ProjectReference Include="..\Sincere.Core.IRepository\Sincere.Core.IRepository.csproj" />
     <ProjectReference Include="..\Sincere.Core.Model\Sincere.Core.Model.csproj" />
   </ItemGroup>

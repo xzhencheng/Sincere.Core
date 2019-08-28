@@ -1,6 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Sincere.Core.IRepository.Base;
 using Sincere.Core.Model;
+using Sincere.Core.Model.EFCore;
+using Sincere.Core.Model.Models;
 using System;
 using System.Collections.Generic;
 using System.Data;

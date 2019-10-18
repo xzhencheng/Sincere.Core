@@ -1,0 +1,15 @@
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.IRepository.deps.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.IRepository.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.IRepository.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.Model.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.Model.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.csprojAssemblyReference.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.AssemblyInfoInputs.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.AssemblyInfo.cs
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.csproj.CopyComplete
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\obj\Debug\netcoreapp2.2\Sincere.Core.IRepository.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.Common.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Sincere.Core.Common.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IRepository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.xml

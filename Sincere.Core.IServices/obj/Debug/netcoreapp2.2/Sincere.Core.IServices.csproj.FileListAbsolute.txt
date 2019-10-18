@@ -1,0 +1,15 @@
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.IServices.deps.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.IServices.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.IServices.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.AssemblyInfoInputs.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.AssemblyInfo.cs
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.csprojAssemblyReference.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.Common.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.Model.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.Model.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Sincere.Core.Common.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.IServices\obj\Debug\netcoreapp2.2\Sincere.Core.IServices.csproj.CopyComplete

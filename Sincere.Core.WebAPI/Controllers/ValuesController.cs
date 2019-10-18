@@ -22,7 +22,7 @@ namespace Sincere.Core.WebAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<string>>> Get()
         {
-            var t = await _advertisementServices.ReadAllAd();
+            var t = await _advertisementServices.ReadAllAd(); 
 
             return new string[] { "value1", "value2" };
         }

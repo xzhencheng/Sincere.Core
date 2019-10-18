@@ -1,0 +1,17 @@
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.exe
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.deps.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.runtimeconfig.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.runtimeconfig.dev.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\bin\Debug\netcoreapp3.0\Sincere.Core.WebAPI.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.csprojAssemblyReference.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.AssemblyInfoInputs.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.AssemblyInfo.cs
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.WebAPI\obj\Debug\netcoreapp3.0\Sincere.Core.WebAPI.pdb

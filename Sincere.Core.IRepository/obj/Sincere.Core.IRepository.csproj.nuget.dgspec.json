@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.IRepository\\Sincere.Core.IRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\Sincere.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\Sincere.Core.Common.csproj",
+        "projectName": "Sincere.Core.Common",
+        "projectPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\Sincere.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\syp910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syp910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.IRepository\\Sincere.Core.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.IRepository\\Sincere.Core.IRepository.csproj",
+        "projectName": "Sincere.Core.IRepository",
+        "projectPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.IRepository\\Sincere.Core.IRepository.csproj",
+        "packagesPath": "C:\\Users\\syp910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syp910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\Sincere.Core.Model.csproj": {
+                "projectPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\Sincere.Core.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\Sincere.Core.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\Sincere.Core.Model.csproj",
+        "projectName": "Sincere.Core.Model",
+        "projectPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\Sincere.Core.Model.csproj",
+        "packagesPath": "C:\\Users\\syp910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syp910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\Sincere.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\syp910\\source\\repos\\Sincere.Core\\Sincere.Core\\Sincere.Core.Common\\Sincere.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Model.deps.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Model.runtimeconfig.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Model.runtimeconfig.dev.json
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Model.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Model.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.csprojAssemblyReference.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.AssemblyInfoInputs.cache
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.AssemblyInfo.cs
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Common.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Sincere.Core.Common.pdb
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\syp910\source\repos\Sincere.Core\Sincere.Core\Sincere.Core.Model\obj\Debug\netcoreapp2.2\Sincere.Core.Model.csproj.CopyComplete

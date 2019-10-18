@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
@@ -8,6 +8,13 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sincere.Core.IServices\Sincere.Core.IServices.csproj" />
+    <ProjectReference Include="..\Sincere.Core.Model\Sincere.Core.Model.csproj" />
+    <ProjectReference Include="..\Sincere.Core.Repository\Sincere.Core.Repository.csproj" />
+    <ProjectReference Include="..\Sincere.Core.Services\Sincere.Core.Services.csproj" />
   </ItemGroup>
 
 </Project>

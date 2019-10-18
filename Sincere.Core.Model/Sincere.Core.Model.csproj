@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sincere.Core.Common\Sincere.Core.Common.csproj" />
+  </ItemGroup>
+
 </Project>
